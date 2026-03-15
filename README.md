@@ -44,3 +44,24 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Create a Form
+Use Form-List side bar to create a  form name.
+After creation , user can edit and delete the form mame.
+With the help of form name , user can add the new field or configure the field
+
+
+## Add the form in fields
+First go and select Dynamic-Form-Config in side bar,
+In that there is an Add Field Button, there is dropdown need to select the Which form.
+ There is also field Configuration
+ which Field name,
+ define Field type like boolean, varchar
+ required which is used to as optional
+
+## Create a new form record
+ In the Forms-Submission side bar, to create the new record for every created forms
+
+## User List
+In User-List side bar,  View the all created form records, as well as user can edit and delete the new form record.

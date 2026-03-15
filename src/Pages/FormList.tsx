@@ -93,7 +93,7 @@ export default function FormList() {
           className="btn btn-primary mb-3"
           onClick={() => setShowModal(true)}
         >
-          Create Form
+          Create Form Name
         </button>
       </div>
 
@@ -141,7 +141,7 @@ export default function FormList() {
             <div className="modal-content">
 
               <div className="modal-header">
-                <h5 className="modal-title">Create Form</h5>
+                <h5 className="modal-title">Create Form Name</h5>
 
                 <button
                   className="btn-close"
@@ -191,7 +191,7 @@ export default function FormList() {
           <div className="modal-dialog">
             <div className="modal-content">
               <div className="modal-header">
-                <h5 className="modal-title">Edit Form</h5>
+                <h5 className="modal-title">Edit Form Name</h5>
                 <button
                   className="btn-close"
                   onClick={() => setEditModal(false)}

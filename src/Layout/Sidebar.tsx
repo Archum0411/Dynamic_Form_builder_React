@@ -10,17 +10,17 @@ export default function Sidebar() {
       <ul className="nav flex-column mt-4">
         <li className="nav-item">
           <a className="nav-link text-white" href="/">
-            Form-List
+            Form-Name
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link text-white" href="/formbuilder">
-            Form-Builder
+            Dynamic-Form-Config
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link text-white" href="/FormList">
-            Forms-Submition
+            User-Forms-Submission
           </a>
         </li>
          <li className="nav-item">
